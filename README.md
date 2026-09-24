@@ -1,4 +1,4 @@
-# TriZen Store
+# bal er store
 
 Professional e-commerce website for **TriZen Store** — premium tech & lifestyle products with bank transfer payments, full order management, and printable invoices.
 
